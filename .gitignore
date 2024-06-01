@@ -1,5 +1,6 @@
-# Ignore the pdfs directory (contains official D&D materials)
+# Ignore directories containing official D&D materials
 src/pdfs/
+src/images/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
